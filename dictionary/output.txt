@@ -1,0 +1,10 @@
+9
+break - ломать, перерыв
+destroy - ломать
+gone - ушёл
+interruption - перерыв
+left - ушёл, лево
+pause - перерыв
+privilege - право, привилегия
+right - право, привилегия
+walked away - ушёл
